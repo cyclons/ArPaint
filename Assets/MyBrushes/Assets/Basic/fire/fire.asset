@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b53992e9737f6c74786237037d2a3e23, type: 3}
+  m_Name: fire
+  m_EditorClassIdentifier: 
+  BrushName: fire
+  brushMat: {fileID: 2100000, guid: acb95d7e912fa1245b726f64d767d6ac, type: 2}
